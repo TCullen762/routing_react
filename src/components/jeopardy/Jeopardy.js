@@ -96,7 +96,7 @@ class Jeopardy extends Component {
               <br />
               <strong>Score:</strong>{this.state.score}
               <br />
-              <button>Submit </button>
+              <button>Submit Answer </button>
               
               <br/>
               
