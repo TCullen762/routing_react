@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import JeopardyService from "../../jeopardyService";
 
 
+//not 100% ran out of time
 
 
 class Jeopardy extends Component {
