@@ -1,5 +1,6 @@
 import React from 'react';
 //because it is stateless
+//when I try to make it stateless I get an export error
 
 /*function Display(props) {
     return (
